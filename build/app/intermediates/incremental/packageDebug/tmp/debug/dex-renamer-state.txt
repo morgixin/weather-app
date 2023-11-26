@@ -1,4 +1,0 @@
-#Sun Nov 26 18:49:59 BRT 2023
-base.0=C\:\\Users\\anabs\\Documents\\weatherapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
