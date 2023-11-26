@@ -1,4 +1,4 @@
-<img src="https://openweathermap.org/img/wn/11d@2x.png" height=120>
+<img src="https://openweathermap.org/img/wn/11d@4x.png" height=120>
 
 # weatherapp
 
