@@ -138,14 +138,18 @@ class _HomeState extends State<Home> {
                   Forecast(context),
                 ]
                 else ...[
+                  SizedBox(height: 10,),
+                  Text("Digite uma cidade:", style: TextStyle(fontSize: 18),),
+                  SizedBox(height: 15,),
                   SizedBox(
                     width: 300,
                     child: TextField(
                       keyboardType: TextInputType.text,
                       controller: _controller,
                       style: TextStyle(
-                        fontSize: 40
+                        fontSize: 30,
                       ),
+                      decoration: InputDecoration(hintText: 'Niterói...'),
                     ),
                   ),
                   SizedBox(height: 20,),
