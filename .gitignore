@@ -7,3 +7,7 @@ linux/
 macos/
 web/
 windows/
+.metadata
+weatherapp.iml
+analysis_options.yaml
+pubspec.lock
